@@ -1,7 +1,10 @@
 {
-  "name": "bjs-vue-doc",
+  "name": "babylonjs-vue3-javascript-basic-setup",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Roland Csibrei"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
